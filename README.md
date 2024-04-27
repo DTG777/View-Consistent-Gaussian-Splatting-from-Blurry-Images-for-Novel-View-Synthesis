@@ -9,15 +9,16 @@ To run the code, follow these steps:
 
 1. Clone this repository:
 ```shell
-
+```
 2. Navigate to the project directory:
 ```shell
 cd view-consistent-gaussian-splatting
-
+```
 4. Install dependencies (assuming you have Python and pip installed):
 ```shell
 pip install -r requirements.txt
-
+```
 5. Run the main script:
 ```shell
 sh script/deblur.sh
+```
