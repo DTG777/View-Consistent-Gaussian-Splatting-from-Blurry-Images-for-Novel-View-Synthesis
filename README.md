@@ -11,7 +11,7 @@ We used the deblur nerf dataset for training and evaluation. You can download th
 
 You can find the pretrained model for the Real Motion Blur 2D Deblurring model at the following link:
 
-[Real Motion Blur 2D Deblurring Pretrained Model](https://github.com/ZhendongWang6/Uformer)
+[Real Motion Blur 2D Deblurring Pretrained Model(Uformer)](https://github.com/ZhendongWang6/Uformer)
 
 ## How to Run
 
@@ -21,7 +21,7 @@ To run the code, follow these steps:
 ```shell
 git clone https://github.com/DTG777/View-Consistent-Gaussian-Splatting-from-Blurry-Images-for-Novel-View-Synthesis.git
 ```
-2. Navigate to the project directory:
+2. cd to the project directory:
 ```shell
 cd view-consistent-gaussian-splatting
 ```
